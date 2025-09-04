@@ -1,7 +1,4 @@
 
-
-
-
 export const dummyUserData = {
     "_id": "689c6deed410acddc0d95a0e",
     "name": "GreatStack",
